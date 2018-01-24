@@ -1,0 +1,141 @@
+ {
+  "basics": {
+    "name": "John Kotz",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "jhnkotz@gmail.com",
+    "phone": "920-605-6116",
+    "website": "jk47.github.io",
+    "summary": "John is a full stack developer in Minneapolis. He enjoys the challenged faced in the software space and looks forward to solving new and exciting problems. ",
+    "location": {
+      "address": "4624 Stevens Ave",
+      "postalCode": "5519",
+      "city": "Minneapolis",
+      "countryCode": "US",
+      "region": "MN"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jk47",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Target",
+      "position": "CEO/President",
+      "website": "target.com",
+      "startDate": "May 2016",
+      "endDate": "Present",
+      "summary": "Working in the Merchandising and Sourcing pyramid, enabling tools for business partners to do their jobs more efficiently",
+      "highlights": [
+        "Full stack work in Java Spring Boot, React, Angular, Postgres",
+        "Responsible for CI/CD, Devops, Testing and Maintenance"
+      ]
+    },
+    {
+      "company": "Associated Financial Group",
+      "position": "Programmer/Analyst",
+      "website": "https://www.associatedbrc.com/",
+      "startDate": "September 2015",
+      "endDate": "May 2016",
+      "summary": "Worked primarily in an area dealing with insurance claim data. Complex SQL queries and reporting. ",
+      "highlights": []
+    },
+    {
+      "company": "Thomson Reuters",
+      "position": "Software Engineer, Senior Software Engineer",
+      "website": "https://www.thomsonreuters.com/en.html",
+      "startDate": "May 2012",
+      "endDate": "September 2015",
+      "summary": "Worked on an agile team developing and maintaining a .NET web application for law firms to search their documents",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Minnesota - Twin Cities",
+      "area": "Software Engineer",
+      "studyType": "Master of Science",
+      "startDate": "2014",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Wisconsin - Madison",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2008",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "React/Angular"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Spring Boot ",
+        "Postgres/Mongo"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Drone",
+        "Jenkins",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Methodologies/Tools",
+      "level": "",
+      "keywords": [
+        "Scrum",
+        "Git",
+        "Jira"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Hiking",
+        "Fishing"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Basketball",
+        "Football",
+        "Baseball"
+      ]
+    }
+  ],
+  "references": []
+}
