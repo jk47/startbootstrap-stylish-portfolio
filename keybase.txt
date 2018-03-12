@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jkotz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jk47.github.io
+  * I am jkotz (https://keybase.io/jkotz) on keybase.
+  * I have a public key ASAPfoem7qvHDnL3Jhxpz4jjLR_EJQsO7rgfzZKpC_pkKwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200f7e87a6eeabc70e72f7261c69cf88e32d1fc4250b0eeeb81fcd92a90bfa642b0a",
+      "host": "keybase.io",
+      "kid": "01200f7e87a6eeabc70e72f7261c69cf88e32d1fc4250b0eeeb81fcd92a90bfa642b0a",
+      "uid": "4fdb2ee166b2496c3a8be5760298d019",
+      "username": "jkotz"
+    },
+    "merkle_root": {
+      "ctime": 1520883478,
+      "hash": "7da90a8d3778b1624c85f7c46b4126c82d5311912c268e2d826b4a34e5ad9737590501deb7c6e12576c18c2d5f9b043a5cf451e0372d486fe0ee2470a8ec15e4",
+      "hash_meta": "82ae7f51b609e651e66a6802be497e3ce56e4045ca111df0d5596d8289b0d03b",
+      "seqno": 2225795
+    },
+    "service": {
+      "hostname": "jk47.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520883556,
+  "expire_in": 504576000,
+  "prev": "d2cf6b520b6bbab0ddd4558b2cb30e0f6061adc440a3af037a9147c97723f1f9",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgD36Hpu6rxw5y9yYcac+I4y0fxCULDu64H82SqQv6ZCsKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGY3ZTg3YTZlZWFiYzcwZTcyZjcyNjFjNjljZjg4ZTMyZDFmYzQyNTBiMGVlZWI4MWZjZDkyYTkwYmZhNjQyYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGY3ZTg3YTZlZWFiYzcwZTcyZjcyNjFjNjljZjg4ZTMyZDFmYzQyNTBiMGVlZWI4MWZjZDkyYTkwYmZhNjQyYjBhIiwidWlkIjoiNGZkYjJlZTE2NmIyNDk2YzNhOGJlNTc2MDI5OGQwMTkiLCJ1c2VybmFtZSI6Imprb3R6In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwODgzNDc4LCJoYXNoIjoiN2RhOTBhOGQzNzc4YjE2MjRjODVmN2M0NmI0MTI2YzgyZDUzMTE5MTJjMjY4ZTJkODI2YjRhMzRlNWFkOTczNzU5MDUwMWRlYjdjNmUxMjU3NmMxOGMyZDVmOWIwNDNhNWNmNDUxZTAzNzJkNDg2ZmUwZWUyNDcwYThlYzE1ZTQiLCJoYXNoX21ldGEiOiI4MmFlN2Y1MWI2MDllNjUxZTY2YTY4MDJiZTQ5N2UzY2U1NmU0MDQ1Y2ExMTFkZjBkNTU5NmQ4Mjg5YjBkMDNiIiwic2Vxbm8iOjIyMjU3OTV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiams0Ny5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMDg4MzU1NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkMmNmNmI1MjBiNmJiYWIwZGRkNDU1OGIyY2IzMGUwZjYwNjFhZGM0NDBhM2FmMDM3YTkxNDdjOTc3MjNmMWY5Iiwic2Vxbm8iOjE4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQA0O8fqdT+Ja1Z0daPY6rkYhrvBwt/YXzi2+sye0bFX8pMddSwbHZape77uTIfdKDO+TZmNT/2WvbO3slLNfSwqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC5eAVL0C7xrn8qfnBnSnkt5YYX1xGRyrPSTpVLgdj2paN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jkotz
+
+==================================================================
